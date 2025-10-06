@@ -1,2 +1,4 @@
-Our code asks for the users name and age and then prints a message repeating that information.
+## Lab 6
+Our code asks for the users name and age and prints a line with the information
+
 Kamron Gross
